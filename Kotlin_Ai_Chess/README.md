@@ -1,9 +1,7 @@
 # Kotlin AI Chess
-
-This project aims to develop a 3D chess game using Kotlin.
-
+Это обычные шахматы которые были написаны целиком ии
 ## Project Structure
-
+тут просто да.
 The project is structured into multiple modules to promote a clean architecture and separation of concerns:
 
 -   **`core`**: Contains the core game logic, including chess rules, board state management, and AI algorithms. This module is platform-agnostic.
@@ -13,6 +11,5 @@ The project is structured into multiple modules to promote a clean architecture 
     -   `presentation`: Manages the user interface and interaction logic.
     -   `data`: Handles local data storage or platform-specific data sources.
 
-## Getting Started
-
-Further instructions on building and running the project will be added here.
+## Заметка
+К сожалению из-за ограничений гитхаба мне пришлось вырезать модели :(
