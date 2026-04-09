@@ -7,6 +7,7 @@ class AnimationManager {
     data class Animation(
         val pieceId: String, // Уникальный ID фигуры или её начальная позиция
         val startPos: Vector3f,
+        
         val endPos: Vector3f,
         var progress: Float = 0f,
         val duration: Float = 0.5f // Длительность анимации в секундах
